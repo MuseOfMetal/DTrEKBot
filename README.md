@@ -1,1 +1,1 @@
-# DTrEKBot
+# https://t.me/DtrEKBot
